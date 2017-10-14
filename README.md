@@ -1,4 +1,4 @@
-## 这个是数据挖掘的python实验版
+## 数据挖掘之python
 
 - 添加了python安装和jupyter使用
 - 添加了python的使用教程
