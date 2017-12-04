@@ -11,6 +11,7 @@
 - [x] 7.[聚类分析](https://nbviewer.jupyter.org/github/Jedan010/data-mining/blob/master/7.%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90.ipynb)
 - [x] 8.[方差分析](https://nbviewer.jupyter.org/github/Jedan010/data-mining/blob/master/8.%E6%96%B9%E5%B7%AE%E5%88%86%E6%9E%90.ipynb)
 - [x] 9.[异常检测](https://nbviewer.jupyter.org/github/Jedan010/data-mining/blob/master/9.%E7%A6%BB%E7%BE%A4%E7%82%B9%E6%A3%80%E6%B5%8B.ipynb)
-
+- [x] 10.主成分分析
+- [x] 11.因子分析 
 
 其他的正在建立中，敬请期待……
